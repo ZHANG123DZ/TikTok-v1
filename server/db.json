@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "title": "Thuyết tương đối",
+      "content": "Thuyết tương đối",
+      "image": "https://chienluocsong.com/wp-content/uploads/theory.jpg",
+      "author": "Huong",
+      "id": 1
+    },
+    {
+      "title": "Gái xinh",
+      "content": "Gái xinh",
+      "image": "https://anhnail.com/wp-content/uploads/2024/11/Hinh-gai-xinh-2k4.jpg",
+      "author": "Linh",
+      "id": 2
+    },
+    {
+      "title": "Chim Công",
+      "content": "Chim công",
+      "image": "https://dongvat.edu.vn/upload/2024/06/Chim-cong-002.webp",
+      "author": "Phương",
+      "id": 3
+    },
+    {
+      "title": "Coder bị trĩ",
+      "content": "Coder bị trĩ",
+      "image": "https://cafefcdn.com/203337114487263232/2025/2/26/coder-at-work-stockcake-17333961-17404626660571970732886-0-44-408-697-crop-1740462692899952413514-1740537167858-174053716798560858886.png",
+      "author": "Thắng",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "content": "hello em gái",
+      "post_id": 1,
+      "id": 1
+    },
+    {
+      "content": "hi llo",
+      "post_id": 1,
+      "id": 2
+    },
+    {
+      "content": "helllo boy",
+      "post_id": 1,
+      "id": 3
+    },
+    {
+      "content": "Em gái xinh quá 😘😘",
+      "post_id": 2,
+      "id": 4
+    }
+  ]
+}
