@@ -1,13 +1,6 @@
 {
   "posts": [
     {
-      "title": "Thuyết tương đối",
-      "content": "Thuyết tương đối",
-      "image": "https://chienluocsong.com/wp-content/uploads/theory.jpg",
-      "author": "Huong",
-      "id": 1
-    },
-    {
       "title": "Gái xinh",
       "content": "Gái xinh",
       "image": "https://anhnail.com/wp-content/uploads/2024/11/Hinh-gai-xinh-2k4.jpg",
@@ -22,11 +15,18 @@
       "id": 3
     },
     {
-      "title": "Coder bị trĩ",
-      "content": "Coder bị trĩ",
-      "image": "https://cafefcdn.com/203337114487263232/2025/2/26/coder-at-work-stockcake-17333961-17404626660571970732886-0-44-408-697-crop-1740462692899952413514-1740537167858-174053716798560858886.png",
+      "title": "h",
+      "content": "h",
+      "image": "https://wellavn.com/wp-content/uploads/2024/11/anh-gai-xinh-2k4-1.jpg?v=1737034969",
       "author": "Thắng",
-      "id": 4
+      "id": 5
+    },
+    {
+      "title": "g",
+      "content": "g",
+      "image": "https://wellavn.com/wp-content/uploads/2024/11/anh-gai-xinh-2k4-1.jpg?v=1737034969",
+      "author": "Thắng",
+      "id": 6
     }
   ],
   "comments": [
@@ -49,6 +49,11 @@
       "content": "Em gái xinh quá 😘😘",
       "post_id": 2,
       "id": 4
+    },
+    {
+      "content": "Chim đẹp quá",
+      "post_id": 3,
+      "id": 5
     }
   ]
 }
